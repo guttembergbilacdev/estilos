@@ -25,7 +25,7 @@ export const Titulo = styled.a`
 
   export const BemVindo = styled.h1`
   font-size: 50px;
-  color: blue;
+  color: brown;
   `;
 
 
